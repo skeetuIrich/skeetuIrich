@@ -1,5 +1,18 @@
-<img width="400" height="63" alt="Untitled591_20260401201443" src="https://github.com/user-attachments/assets/976fd5fa-29b8-4e84-b8cb-cc0566093e97" />
-<img width="736" height="223" alt="Untitled579_20260330012947" src="https://github.com/user-attachments/assets/9c4fb0e4-1d08-469b-986c-c981df51c356" />
+<img width="2219" height="955" alt="Untitled613_0000-13-49_20260410201857" src="https://github.com/user-attachments/assets/82abd279-e050-46b3-9265-149436c92942" />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2ubpn2lk6e950jdlqz8q8v26x&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=2ubpn2lk6e950jdlqz8q8v26x&redirect=true)
-<img width="400" height="63" alt="Untitled591_20260401201512" src="https://github.com/user-attachments/assets/35e239d4-6c27-4b82-a398-fa22873d613c" />
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic&label=skeeters&color=4B374A&base=4563)
+
+</div>
+
+<img width="600" height="452" alt="Untitled646_20260410203230" src="https://github.com/user-attachments/assets/a03d1415-c157-475d-a2cf-8ce72f310e81" />
+
+<div align="center">
+
+ [rentry](https://rentry.co/jamiecampbellbower). 　 𓈒  　 [新book](https://bonjovi.atabook.org)
+</div> 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2ubpn2lk6e950jdlqz8q8v26x&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=4B374A&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=2ubpn2lk6e950jdlqz8q8v26x&redirect=true)
+<img width="2219" height="955" alt="Untitled613_0000-13-49_20260410201915" src="https://github.com/user-attachments/assets/bb838cd4-cf76-4a96-a630-9cda89b5e6f7" />
+
